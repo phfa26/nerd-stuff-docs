@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: "Day 2: Getting your hands dirty"
+title: "Day 2: Gearing up"
 authors: paulo
 ---
 
