@@ -2,9 +2,7 @@
 sidebar_position: 1
 title: "Day 1: Embarking on Your Journey"
 authors: paulo
-tags: [pioneers, bootcamp, full stack, software development]
 ---
-
 
 # Welcome to Day 1
 
@@ -281,6 +279,24 @@ Leverage these resources to deepen your command line skills and efficiency.
 
 ### Homework for Day 1
 
-Reflect on today's learning and explore the basic command line commands practiced in class. Prepare any questions you might have for the next class.
+- Reflect on today's learning and explore the basic command line commands practiced in class. Prepare any questions you might have for the next class.
+
+:::warning
+<br/>
+**The tasks below are mandatory - Make sure to complete these steps **BEFORE** the next class**.
+:::
+
+- Prepere for next class and try to install Git, understand Github, and do a research on Agile methodologies for Software development projects.
+- Open your personal account on `GitHub` - You can [create your free GitHub account here](https://github.com/)
+- Download and install the following software:
+  - `Node JS` - This software will be necessary for running JavaScript in your computer - [Download Here](https://nodejs.org/en/download)
+  - `Visual Studio Code (VSCode)` - [Download here](https://code.visualstudio.com/)
+  - `Google Chrome`, if you don't have it already installed - [Download here](https://www.google.com/intl/en_au/chrome/dr/download/)
+
+
+
+
+
+
 
 **Remember, this journey is about growth and learning through every challenge. Let's make the most of it together!**

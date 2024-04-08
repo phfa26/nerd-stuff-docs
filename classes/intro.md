@@ -26,4 +26,4 @@ Should you encounter any hurdles or have questions:
 
 **Embrace the challenge, and let's code our way to the future!**
 
-<img src='/img/animated-logo.gif' width='200'/>
+<img src='../img/animated-logo.gif' width='200'/>
