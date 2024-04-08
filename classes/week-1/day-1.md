@@ -292,11 +292,7 @@ Leverage these resources to deepen your command line skills and efficiency.
   - `Node JS` - This software will be necessary for running JavaScript in your computer - [Download Here](https://nodejs.org/en/download)
   - `Visual Studio Code (VSCode)` - [Download here](https://code.visualstudio.com/)
   - `Google Chrome`, if you don't have it already installed - [Download here](https://www.google.com/intl/en_au/chrome/dr/download/)
-
-
-
-
-
+- Try Chrome `DevTools` in a website you like - [Read more](https://developer.chrome.com/docs/devtools)
 
 
 **Remember, this journey is about growth and learning through every challenge. Let's make the most of it together!**
